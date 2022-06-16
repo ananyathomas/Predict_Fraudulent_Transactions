@@ -1,8 +1,8 @@
 # Predict_Fraudulent_Transactions
 
 ## Team Members
-*Ananya Thomas
-*Amrita Bhatia
+* Ananya Thomas
+* Amrita Bhatia
 
 This project compares the performance of four machine learning models in a binary classification problem for prediction fraudulent transactions.The models compared are:
 
